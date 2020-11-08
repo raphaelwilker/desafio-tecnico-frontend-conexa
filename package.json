@@ -1,0 +1,46 @@
+{
+  "name": "desafio-tecnico-frontend-conexa",
+  "version": "1.0.0",
+  "description": "Teste front-end Raphael Wilker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/conexasaude-public/desafio-tecnico-frontend-conexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/conexasaude-public/desafio-tecnico-frontend-conexa/issues"
+  },
+  "homepage": "https://gitlab.com/conexasaude-public/desafio-tecnico-frontend-conexa#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@popperjs/core": "^2.5.4",
+    "axios": "^0.21.0",
+    "babel-loader": "^8.1.0",
+    "bootstrap": "^4.5.3",
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "install": "^0.13.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^5.0.0",
+    "postcss-loader": "^2.0.6",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.18.2",
+    "uglify-es": "^3.3.9",
+    "vue": "^2.6.12",
+    "vue-loader": "^14.2.4",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.4.9",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^3.5.3"
+  },
+  "dependencies": {
+    "extract-text-webpack-plugin": "^3.0.0",
+    "popper.js": "^1.16.1"
+  }
+}
